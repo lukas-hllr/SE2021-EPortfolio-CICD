@@ -1,0 +1,6 @@
+{
+	"appId": "de.eportfolio.cicd",
+	"appName": "E-Portfolio-CI-CD",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

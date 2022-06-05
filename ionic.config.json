@@ -1,0 +1,7 @@
+{
+  "name": "E-Portfolio-CI-CD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
