@@ -1,6 +1,6 @@
 # Software für die Live-Demo
 
-Hey! Wenn du während der Live-Demo gemeinsam mit mir Programmieren möchstest, musst du folgende Software mitbringen.
+Hey! Wenn du während der Live-Demo gemeinsam mit mir programmieren möchstest, musst du folgende Software und Accounts mitbringen.
 
 ## Accounts
 - GitHub Account
