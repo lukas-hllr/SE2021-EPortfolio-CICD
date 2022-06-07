@@ -66,3 +66,7 @@ Da sowohl Azure als auch GitHub Dienste von Microsoft sind arbeiten sie Lückenl
 Teil des Bildungsprogrammes werden kannst du [hier](https://azure.microsoft.com/de-de/free/students/).
 
 Dein kostenloses Guthaben verwalten kannst du [hier](https://www.microsoftazuresponsorships.com/).
+
+# PowerPoint
+
+Die PowerPoint meines E-Portfolios findest du [hier](https://raw.githubusercontent.com/lukas-hllr/SE2021-EPortfolio-CICD/main/PowerPoint/E-Portfolio.pdf).
